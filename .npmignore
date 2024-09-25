@@ -1,0 +1,10 @@
+src/
+test/
+tsconfig.json
+.gitignore
+.eslintrc.js
+node_modules/
+*.env
+.prettierrc
+jest.config.js
+.npmrc
