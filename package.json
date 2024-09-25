@@ -17,6 +17,10 @@
   "keywords": [],
   "author": "johnpaulrusso",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnpaulrusso/json-patch-history.git"
+},
   "description": "",
   "devDependencies": {
     "@types/jest": "^29.5.12",
